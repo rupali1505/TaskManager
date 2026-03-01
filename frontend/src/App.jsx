@@ -1,6 +1,6 @@
 import { Container } from "@mui/material";
-import { TaskManager } from "./components/TaskManager";
-import { Nav } from "./components/AppBar";
+import { TaskManager } from "./Components/TaskManager";
+import { Nav } from "./Components/AppBar";
 
 const App = () => {
   return (
