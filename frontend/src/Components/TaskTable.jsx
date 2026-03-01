@@ -12,7 +12,7 @@ import {
     Paper,
 } from "@mui/material";
 import { Edit, Download, Delete, CheckCircle } from "@mui/icons-material";
-import { formatDate, getStatus } from "../utils";
+import { formatDate, getStatus } from "../Utils";
 
 const TaskTable = ({
     tasks,
